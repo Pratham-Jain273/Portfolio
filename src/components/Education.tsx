@@ -29,7 +29,7 @@ export default function Education() {
                   <p className="text-gray-600 dark:text-gray-300 mt-1">
                     B.Tech in Computer Science and Engineering
                   </p>
-                  <p className="text-gray-500 dark:text-gray-400 text-sm">2025 - Present</p>
+                  <p className="text-gray-500 dark:text-gray-400 text-sm">2022 - Present</p>
                   
                   <div className="mt-4 space-y-2">
                     <div className="flex items-center gap-2">
