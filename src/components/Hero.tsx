@@ -74,7 +74,7 @@ export default function Hero() {
           <div className="lg:w-1/2">
             <div className="relative w-72 h-72 mx-auto">
               <img
-                src="/Pratham_pic.jpg" // Ensure this file is inside the 'public/' folder
+                src="/pic2.jpg" // Ensure this file is inside the 'public/' folder
                 alt="Pratham Jain"
                 className="rounded-full w-full h-full object-cover shadow-2xl"
               />
